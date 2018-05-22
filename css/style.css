@@ -1,18 +1,28 @@
 body{
-    background: #ccccb3;
+    background: #e0e0d1;
 }
 .pomodoroClock{
+    color: white;
     width: 600px;
     height: 600px;
-    border: 15px solid #ff6600;
+    border: 15px solid  #e62e00;
     border-radius: 50%;
-    margin-top: 30px;
-    background-color: #ff9900;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffa64d;
+    -webkit-box-shadow: 30px 2px 60px 0 #121212;
+    box-shadow: 30px 2px 60px 0 #121212;
 }
 h1{
 	text-align: center;
 	margin-top: 50px;
-	color: white;
+}
+h3{
+    text-align: center;
+}
+.sessionLength{
+    font-size: 844px;
 }
 .footer{
 	position: absolute;
