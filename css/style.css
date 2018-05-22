@@ -1,1 +1,21 @@
-/*styles will go here*/
+body{
+    background: #ccccb3;
+}
+.pomodoroClock{
+    width: 600px;
+    height: 600px;
+    border: 15px solid #ff6600;
+    border-radius: 50%;
+    margin-top: 30px;
+    background-color: #ff9900;
+}
+h1{
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+}
+.footer{
+	position: absolute;
+	margin-left: 430px;
+	margin-top: 140px;
+}
